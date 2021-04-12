@@ -208,6 +208,8 @@ footer .footer_column p {
 	height: auto;
 	max-width: 400px;
 	max-height: 200px;
+	background: #696969;
+	color: #FFFFFF;
 }
 footer .footer_column p {
 	padding-left: 30px;
@@ -622,14 +624,7 @@ nav ul li {
 /* Caption text */
 
 
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
+
 
 /* The dots/bullets/indicators */
 .dot {
